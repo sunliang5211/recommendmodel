@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.tukaani:xz:1.5:jar">
+    <CLASSES>
+      <root url="jar://D:/repository/sbt/data/.ivy2/cache/org.tukaani/xz/jars/xz-1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/repository/sbt/data/.ivy2/cache/org.tukaani/xz/srcs/xz-1.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
